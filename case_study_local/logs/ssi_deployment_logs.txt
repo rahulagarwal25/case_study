@@ -1,6 +1,0 @@
-Everything is up to date, there is nothing to compile.
-Deploying contract Identity...
-Transaction hash: 0xa3cd68ef02b2c1fa4e0e8a922012c3fd65a29160f9ebc372e43cc72f832d334b
-Waiting for confirmations...
-Identity contract deployed at: 0x62fEccF4eDaDCbC2C4BEa98E78C4Ff10A6f1Efc7
-Deployment complete!
